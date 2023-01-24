@@ -1,0 +1,17 @@
+.chat-box { 
+    width: 500px; 
+    height: 300px; 
+    border: 1px solid black; 
+   
+    } 
+    
+.messages { 
+    height: 250px; 
+    background: beige;
+    overflow: scroll; 
+    } 
+    
+.input-box { 
+    width: 400px; 
+    } 
+    
